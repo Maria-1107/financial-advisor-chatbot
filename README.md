@@ -2,10 +2,11 @@
 
 An AI-powered chatbot that delivers **personalized financial advice** by combining Retrieval-Augmented Generation (RAG) with user profile context. Built end-to-end — from document ingestion to a deployed, shareable web app.
 
-🔗 **Live Demo:** https://financial-advisor-chatbot-nnpbvqet3kdvoafryqmt65.streamlit.app/
-🔗 **Demo Video:** https://www.linkedin.com/posts/maria-rexcy-670268281_built-and-deployed-a-personalized-financial-ugcPost-7472897018206531586-jukp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESPR7QB8ojtCPNnVELqb9vZ9JBM9AJJad8
-🔗 **App screenshot:** <img width="1918" height="912" alt="Screenshot 2026-06-17 120340" src="https://github.com/user-attachments/assets/f5d4567b-1083-4e5d-8991-2c8a89825eb9" />
+🔗 **App Link:** https://financial-advisor-chatbot-nnpbvqet3kdvoafryqmt65.streamlit.app/
 
+🔗 **Demo Video:** https://www.linkedin.com/posts/maria-rexcy-670268281_built-and-deployed-a-personalized-financial-ugcPost-7472897018206531586-jukp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESPR7QB8ojtCPNnVELqb9vZ9JBM9AJJad8
+
+🔗 **App screenshot:** <img width="1918" height="912" alt="Screenshot 2026-06-17 120340" src="https://github.com/user-attachments/assets/f5d4567b-1083-4e5d-8991-2c8a89825eb9" />
 
 ---
 
